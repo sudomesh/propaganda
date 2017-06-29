@@ -1,2 +1,2 @@
 # propaganda
-artwork, logos, stickers, related to peopleseopen sudomesh
+artwork, logos, stickers, related to peoplesopen sudomesh

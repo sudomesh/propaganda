@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="215.9mm" height="279.4mm" viewBox="0 0 21590 27940" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+ <defs class="ClipPathGroup">
+  <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
+   <rect x="0" y="0" width="21590" height="27940"/>
+  </clipPath>
+  <clipPath id="presentation_clip_path_shrink" clipPathUnits="userSpaceOnUse">
+   <rect x="21" y="27" width="21547" height="27885"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <font id="EmbeddedFont_1" horiz-adv-x="2048">
+   <font-face font-family="Courier embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1720" descent="609"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="’" horiz-adv-x="398" d="M 518,1153 L 363,655 508,655 731,1153 518,1153 Z"/>
+   <glyph unicode="y" horiz-adv-x="1192" d="M 49,880 L 49,784 174,784 555,55 397,-217 82,-217 82,-313 696,-313 696,-217 514,-217 1087,784 1206,784 1206,880 831,880 831,784 971,784 614,162 291,784 432,784 432,880 49,880 Z"/>
+   <glyph unicode="w" horiz-adv-x="1245" d="M 4,880 L 4,784 92,784 324,0 424,0 614,528 809,0 915,0 1145,784 1225,784 1225,880 877,880 877,784 1049,784 864,156 860,156 657,721 586,721 385,164 381,164 201,784 371,784 371,880 4,880 Z"/>
+   <glyph unicode="v" horiz-adv-x="1166" d="M 43,880 L 43,784 195,784 567,0 664,0 1034,784 1186,784 1186,880 770,880 770,784 932,784 621,119 313,784 479,784 479,880 43,880 Z"/>
+   <glyph unicode="u" horiz-adv-x="1086" d="M 66,880 L 66,784 233,784 233,337 C 233,176 291,-29 549,-29 707,-29 813,61 870,112 L 870,0 1139,0 1139,96 973,96 973,880 694,880 694,784 870,784 870,252 C 760,129 653,73 541,73 336,73 336,284 336,337 L 336,880 66,880 Z"/>
+   <glyph unicode="t" horiz-adv-x="900" d="M 354,1152 L 354,851 215,851 215,755 354,755 354,368 C 354,233 354,135 426,63 469,20 553,-29 680,-29 813,-29 971,28 1102,88 L 1065,180 C 825,75 737,75 670,75 455,75 457,218 457,369 L 457,755 952,755 952,851 457,851 457,1152 354,1152 Z"/>
+   <glyph unicode="s" horiz-adv-x="848" d="M 895,921 C 891,906 889,904 883,878 879,865 868,829 846,829 829,829 805,843 801,847 764,870 684,906 565,906 350,906 203,793 203,641 203,387 520,387 629,387 799,387 922,387 922,258 922,93 700,71 619,71 334,71 301,245 289,315 L 199,305 C 203,258 211,190 211,102 211,35 205,8 199,-27 L 289,-27 C 301,20 311,59 330,59 334,59 340,55 340,55 387,28 494,-31 641,-31 819,-31 1032,58 1032,263 1032,485 782,485 735,485 496,485 313,485 313,643 313,732 406,804 567,804 850,804 875,671 889,591 L 979,602 C 975,636 969,673 969,730 969,810 979,863 987,906 L 895,921 Z"/>
+   <glyph unicode="r" horiz-adv-x="1033" d="M 170,880 L 170,784 408,784 408,96 154,96 154,0 899,0 899,96 510,96 510,545 C 580,622 741,807 918,807 999,807 1026,762 1047,731 1047,727 1053,719 1055,717 L 1163,796 C 1118,850 1063,909 934,909 739,909 602,768 510,676 L 510,880 170,880 Z"/>
+   <glyph unicode="p" horiz-adv-x="1113" d="M 39,881 L 39,785 207,785 207,-225 39,-225 39,-321 614,-321 614,-225 309,-225 309,162 313,162 C 455,-14 637,-14 670,-14 891,-14 1122,174 1122,449 1122,682 944,907 666,907 446,907 348,783 313,736 L 309,736 309,881 39,881 Z M 301,455 C 301,643 455,805 668,805 897,805 1012,621 1012,451 1012,242 850,88 666,88 506,88 301,213 301,455 Z"/>
+   <glyph unicode="o" horiz-adv-x="1033" d="M 107,446 C 107,202 281,-29 614,-29 956,-29 1122,211 1122,446 1122,681 956,921 614,921 281,921 107,692 107,446 Z M 217,446 C 217,641 358,819 614,819 877,819 1012,636 1012,446 1012,258 877,73 614,73 356,73 217,254 217,446 Z"/>
+   <glyph unicode="n" horiz-adv-x="1112" d="M 70,880 L 70,784 238,784 238,96 70,96 70,0 512,0 512,96 340,96 340,645 C 524,790 627,809 694,809 815,809 895,714 895,565 L 895,96 719,96 719,0 1161,0 1161,96 997,96 997,573 C 997,772 879,911 692,911 543,911 430,829 340,766 L 340,880 70,880 Z"/>
+   <glyph unicode="l" horiz-adv-x="848" d="M 219,1237 L 229,1128 563,1153 563,96 207,96 207,0 1022,0 1022,96 666,96 666,1237 219,1237 Z"/>
+   <glyph unicode="k" horiz-adv-x="1112" d="M 74,1261 L 82,1165 276,1181 276,96 107,96 107,0 379,0 379,375 494,463 C 692,278 774,197 858,96 L 727,96 727,0 1153,0 1153,96 981,96 C 907,190 737,371 571,520 L 915,784 1075,784 1075,880 647,880 647,784 762,784 762,780 379,489 379,1288 74,1261 Z"/>
+   <glyph unicode="i" horiz-adv-x="848" d="M 266,880 L 266,784 567,784 567,96 207,96 207,0 1024,0 1024,96 670,96 670,880 266,880 Z M 522,1099 L 670,1099 670,1343 522,1343 522,1099 Z"/>
+   <glyph unicode="h" horiz-adv-x="1166" d="M 51,1263 L 59,1167 250,1183 250,96 78,96 78,0 514,0 514,96 352,96 352,645 C 451,725 578,809 707,809 827,809 903,712 903,565 L 903,96 729,96 729,0 1178,0 1178,96 1006,96 1006,573 C 1006,772 889,911 702,911 555,911 442,831 352,766 L 352,1288 51,1263 Z"/>
+   <glyph unicode="g" horiz-adv-x="1060" d="M 864,881 L 864,732 860,732 C 745,889 557,889 535,889 307,889 96,707 96,455 96,224 285,21 535,21 717,21 834,138 860,181 L 864,181 864,61 C 864,-223 711,-223 369,-223 L 369,-321 498,-321 C 864,-321 967,-188 967,62 L 967,785 1133,785 1133,881 864,881 Z M 864,451 C 864,281 731,123 539,123 356,123 207,271 207,457 207,652 369,787 539,787 711,787 864,654 864,451 Z"/>
+   <glyph unicode="f" horiz-adv-x="848" d="M 199,856 L 199,760 412,760 412,96 199,96 199,0 950,0 950,96 514,96 514,760 950,760 950,856 514,856 514,964 C 514,1075 514,1177 707,1177 795,1177 903,1167 993,1144 L 1036,1247 C 948,1263 844,1279 733,1279 438,1279 412,1138 412,971 L 412,856 199,856 Z"/>
+   <glyph unicode="e" horiz-adv-x="1033" d="M 1098,206 C 1012,163 823,69 651,69 336,69 268,305 262,411 L 1098,411 C 1098,425 1102,470 1102,503 1102,692 946,911 637,911 336,911 152,692 152,438 152,196 315,-29 649,-29 840,-29 1038,57 1145,116 L 1098,206 Z M 262,507 C 276,599 367,813 637,813 883,813 989,641 991,507 L 262,507 Z"/>
+   <glyph unicode="d" horiz-adv-x="1086" d="M 578,1245 L 584,1164 913,1164 913,713 909,713 C 834,826 684,889 559,889 338,889 109,711 109,434 109,189 307,-20 563,-20 602,-20 782,-20 909,152 L 913,152 913,1 1190,1 1190,97 1016,97 1016,1284 578,1245 Z M 909,430 C 909,230 750,82 563,82 379,82 219,228 219,437 219,647 383,787 563,787 791,787 909,592 909,430 Z"/>
+   <glyph unicode="b" horiz-adv-x="1112" d="M 10,1278 L 10,1178 199,1178 199,97 35,97 35,1 301,1 301,158 C 348,103 446,-20 664,-20 930,-20 1114,205 1114,432 1114,686 907,889 655,889 506,889 389,819 305,709 L 301,709 301,1278 10,1278 Z M 303,437 C 303,623 459,787 659,787 858,787 1004,623 1004,434 1004,248 864,82 662,82 457,82 303,246 303,437 Z"/>
+   <glyph unicode="a" horiz-adv-x="1033" d="M 944,606 C 944,686 944,921 596,921 434,921 293,866 205,829 L 244,737 C 408,808 520,823 594,823 842,823 842,671 842,606 L 842,542 C 717,567 573,567 555,567 215,567 121,369 121,259 121,118 248,-29 451,-29 619,-29 758,69 842,147 L 842,0 1126,0 1126,96 944,96 944,606 Z M 842,284 C 666,88 516,69 449,69 334,69 231,155 231,258 231,282 238,471 575,471 688,471 795,456 842,448 L 842,284 Z"/>
+   <glyph unicode="T" horiz-adv-x="1060" d="M 123,1152 L 88,669 186,657 215,1056 563,1056 563,96 315,96 315,0 913,0 913,96 666,96 666,1056 1014,1056 1042,657 1141,669 1106,1152 123,1152 Z"/>
+   <glyph unicode="G" horiz-adv-x="1113" d="M 971,1175 C 961,1085 961,1074 940,1074 930,1074 922,1079 899,1099 821,1162 741,1187 643,1187 293,1187 98,886 98,571 98,301 246,-35 666,-35 786,-35 926,-2 1085,65 L 1085,409 1184,409 1184,505 678,505 678,409 981,409 981,133 C 821,78 735,67 668,67 356,67 209,293 209,573 209,876 399,1085 639,1085 928,1085 967,859 981,767 L 1069,784 C 1063,833 1057,902 1057,970 1057,1023 1063,1113 1065,1136 1065,1142 1067,1167 1069,1175 L 971,1175 Z"/>
+   <glyph unicode=":" horiz-adv-x="345" d="M 614,798 C 541,798 457,745 457,659 457,569 543,520 614,520 688,520 772,571 772,659 772,745 690,798 614,798 Z M 614,243 C 541,243 457,190 457,104 457,14 543,-35 614,-35 688,-35 772,16 772,104 772,190 690,243 614,243 Z"/>
+   <glyph unicode="/" horiz-adv-x="874" d="M 954,1437 L 186,-231 274,-272 1042,1400 954,1437 Z"/>
+   <glyph unicode="." horiz-adv-x="345" d="M 614,243 C 539,243 457,190 457,104 457,14 543,-35 614,-35 690,-35 772,18 772,104 772,188 692,243 614,243 Z"/>
+   <glyph unicode=" " horiz-adv-x="1217"/>
+  </font>
+ </defs>
+ <defs>
+  <font id="EmbeddedFont_2" horiz-adv-x="2048">
+   <font-face font-family="Courier embedded" units-per-em="2048" font-weight="bold" font-style="normal" ascent="1746" descent="609"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="z" horiz-adv-x="874" d="M 207,928 L 207,582 385,582 385,760 768,760 186,148 186,0 1042,0 1042,356 864,356 864,168 455,168 1042,791 1042,928 207,928 Z"/>
+   <glyph unicode="w" horiz-adv-x="1245" d="M 0,928 L 0,760 94,760 303,-1 459,-1 612,446 616,446 774,-1 936,-1 1143,760 1229,760 1229,928 813,928 813,760 967,760 852,325 848,325 684,760 559,760 399,325 395,325 283,760 434,760 434,928 0,928 Z"/>
+   <glyph unicode="u" horiz-adv-x="1139" d="M 45,928 L 45,760 205,760 205,367 C 205,213 238,145 289,82 344,14 451,-29 553,-29 614,-29 719,-11 821,63 L 821,0 1159,0 1159,168 999,168 999,928 653,928 653,760 821,760 821,299 C 745,223 676,147 551,147 399,147 383,289 383,367 L 383,928 45,928 Z"/>
+   <glyph unicode="s" horiz-adv-x="900" d="M 852,975 L 825,861 C 782,893 696,957 553,957 399,957 176,871 176,665 176,568 233,480 311,434 379,394 446,377 629,377 788,377 877,377 877,290 877,199 770,147 621,147 424,147 365,242 342,352 L 182,334 C 193,290 203,253 203,171 203,84 190,23 182,-27 L 342,-27 367,76 C 422,30 492,-29 653,-29 893,-29 1061,108 1061,283 1061,343 1034,429 963,483 889,539 795,539 614,539 502,557 360,557 360,664 360,764 496,781 575,781 610,781 788,781 825,674 L 842,627 C 844,619 850,605 852,600 L 1012,623 C 1001,664 991,705 991,771 991,834 1001,898 1012,949 L 852,975 Z"/>
+   <glyph unicode="r" horiz-adv-x="1112" d="M 145,928 L 145,760 373,760 373,168 127,168 127,0 930,0 930,168 551,168 551,551 C 567,567 754,781 887,781 956,781 995,731 1018,692 L 1200,832 C 1155,877 1077,957 922,957 745,957 637,859 551,777 L 551,928 145,928 Z"/>
+   <glyph unicode="o" horiz-adv-x="1086" d="M 84,471 C 84,215 268,-29 614,-29 971,-29 1145,225 1145,471 1145,729 958,971 614,971 283,971 84,741 84,471 Z M 272,471 C 272,639 389,795 614,795 846,795 956,631 956,471 956,311 846,147 614,147 389,147 272,305 272,471 Z"/>
+   <glyph unicode="n" horiz-adv-x="1166" d="M 47,928 L 47,760 213,760 213,168 43,168 43,0 547,0 547,168 391,168 391,641 C 479,705 578,781 692,781 793,781 846,691 846,580 L 846,168 674,168 674,0 1190,0 1190,168 1024,168 1024,588 C 1024,803 893,957 688,957 555,957 459,889 391,842 L 391,928 47,928 Z"/>
+   <glyph unicode="l" horiz-adv-x="900" d="M 188,1309 L 205,1133 524,1133 524,168 180,168 180,0 1047,0 1047,168 702,168 702,1309 188,1309 Z"/>
+   <glyph unicode="k" horiz-adv-x="1166" d="M 49,1295 L 66,1123 250,1139 250,168 86,168 86,0 428,0 428,383 496,434 C 541,393 696,240 760,168 L 684,168 684,0 1174,0 1174,168 987,168 C 813,371 700,486 637,539 L 965,760 1100,760 1100,928 594,928 594,760 686,760 686,756 428,596 428,1328 49,1295 Z"/>
+   <glyph unicode="i" horiz-adv-x="900" d="M 236,928 L 236,760 528,760 528,168 180,168 180,0 1049,0 1049,168 707,168 707,928 236,928 Z M 489,1107 L 707,1107 707,1377 489,1377 489,1107 Z"/>
+   <glyph unicode="h" horiz-adv-x="1218" d="M 25,1300 L 39,1133 223,1133 223,168 53,168 53,0 557,0 557,168 401,168 401,641 C 563,762 647,781 702,781 811,781 856,682 856,582 L 856,168 684,168 684,0 1200,0 1200,168 1034,168 1034,590 C 1034,805 901,957 698,957 563,957 465,887 401,842 L 401,1328 25,1300 Z"/>
+   <glyph unicode="e" horiz-adv-x="1086" d="M 1098,295 C 987,229 815,147 645,147 379,147 332,324 313,398 L 1116,398 C 1118,416 1122,476 1122,523 1122,724 958,957 635,957 319,957 125,723 125,459 125,201 305,-29 649,-29 809,-29 995,30 1180,137 L 1098,295 Z M 326,566 C 346,621 410,779 637,779 694,779 879,779 934,566 L 326,566 Z"/>
+   <glyph unicode="d" horiz-adv-x="1139" d="M 555,1285 L 537,1111 866,1136 866,830 C 778,900 664,937 563,937 326,937 90,746 90,460 90,203 297,-20 567,-20 625,-20 754,-10 866,87 L 866,1 1210,1 1210,169 1044,169 1044,1328 555,1285 Z M 862,457 C 862,281 723,156 569,156 412,156 279,283 279,462 279,644 416,761 569,761 766,761 862,591 862,457 Z"/>
+   <glyph unicode="b" horiz-adv-x="1139" d="M 0,1318 L 12,1138 170,1138 170,168 12,168 12,0 348,0 348,90 C 477,-16 596,-16 657,-16 940,-16 1135,221 1135,459 1135,723 915,937 649,937 535,937 438,898 348,824 L 348,1318 0,1318 Z M 348,459 C 348,619 483,761 653,761 819,761 946,623 946,457 946,296 827,156 655,156 481,156 348,298 348,459 Z"/>
+   <glyph unicode="a" horiz-adv-x="1086" d="M 973,629 C 973,840 858,971 596,971 430,971 291,916 166,864 L 236,701 C 311,733 451,795 594,795 797,795 795,684 795,613 721,621 653,629 561,629 201,629 98,416 98,291 98,131 240,-29 457,-29 621,-29 727,49 795,98 L 795,0 1149,0 1149,168 973,168 973,629 Z M 795,332 C 637,151 496,151 455,151 367,151 283,216 283,291 283,315 293,461 582,461 662,461 723,449 795,438 L 795,332 Z"/>
+   <glyph unicode="V" horiz-adv-x="1245" d="M 621,254 L 336,1027 504,1027 504,1195 0,1195 0,1027 147,1027 530,1 707,1 1094,1027 1229,1027 1229,1195 727,1195 727,1027 911,1027 621,254 Z"/>
+   <glyph unicode="T" horiz-adv-x="1112" d="M 102,1195 L 63,654 240,629 266,1027 526,1027 526,168 289,168 289,0 946,0 946,168 705,168 705,1027 965,1027 991,629 1167,654 1128,1195 102,1195 Z"/>
+   <glyph unicode="." horiz-adv-x="424" d="M 614,315 C 522,315 422,250 422,141 422,31 522,-33 614,-33 709,-33 807,33 807,141 807,252 702,315 614,315 Z"/>
+   <glyph unicode=" " horiz-adv-x="1217"/>
+  </font>
+ </defs>
+ <defs class="TextShapeIndex">
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6"/>
+ </defs>
+ <defs class="EmbeddedBulletChars">
+  <g id="bullet-char-template(57356)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
+  </g>
+  <g id="bullet-char-template(57354)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
+  </g>
+  <g id="bullet-char-template(10146)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10132)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10007)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
+  </g>
+  <g id="bullet-char-template(10004)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
+  </g>
+  <g id="bullet-char-template(9679)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
+  </g>
+  <g id="bullet-char-template(8226)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
+  </g>
+  <g id="bullet-char-template(8211)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
+  </g>
+  <g id="bullet-char-template(61548)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 173,740 C 173,903 231,1043 346,1159 462,1274 601,1332 765,1332 928,1332 1067,1274 1183,1159 1299,1043 1357,903 1357,740 1357,577 1299,437 1183,322 1067,206 928,148 765,148 601,148 462,206 346,322 231,437 173,577 173,740 Z"/>
+  </g>
+ </defs>
+ <defs class="TextEmbeddedBitmaps"/>
+ <g>
+  <g id="id2" class="Master_Slide">
+   <g id="bg-id2" class="Background"/>
+   <g id="bo-id2" class="BackgroundObjects"/>
+  </g>
+ </g>
+ <g class="SlideGroup">
+  <g>
+   <g id="container-id1">
+    <g id="id1" class="Slide" clip-path="url(#presentation_clip_path)">
+     <g class="Page">
+      <g class="com.sun.star.drawing.TextShape">
+       <g id="id3">
+        <rect class="BoundingBox" stroke="none" fill="none" x="1254" y="1381" width="19337" height="6732"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Courier, monospace" font-size="1129px" font-weight="700"><tspan class="TextPosition" x="1504" y="2467"><tspan fill="rgb(0,0,0)" stroke="none">Thanks Verizon.</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Courier, monospace" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1504" y="4055"><tspan fill="rgb(0,0,0)" stroke="none">Thanks for destroying the free and open internet.</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Courier, monospace" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1504" y="5507"><tspan fill="rgb(0,0,0)" stroke="none">Guess we’ll have to </tspan><tspan font-weight="700" fill="rgb(0,0,0)" stroke="none">build our own...</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Courier, monospace" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1504" y="6955"><tspan fill="rgb(0,0,0)" stroke="none">https://peoplesopen.net/byoi</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.TextShape">
+       <g id="id4">
+        <rect class="BoundingBox" stroke="none" fill="none" x="1254" y="7882" width="19337" height="6732"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Courier, monospace" font-size="1129px" font-weight="700"><tspan class="TextPosition" x="1504" y="8968"><tspan fill="rgb(0,0,0)" stroke="none">Thanks Verizon.</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Courier, monospace" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1504" y="10556"><tspan fill="rgb(0,0,0)" stroke="none">Thanks for destroying the free and open internet.</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Courier, monospace" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1504" y="12008"><tspan fill="rgb(0,0,0)" stroke="none">Guess we’ll have to </tspan><tspan font-weight="700" fill="rgb(0,0,0)" stroke="none">build our own...</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Courier, monospace" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1504" y="13456"><tspan fill="rgb(0,0,0)" stroke="none">https://peoplesopen.net/byoi</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.TextShape">
+       <g id="id5">
+        <rect class="BoundingBox" stroke="none" fill="none" x="1254" y="14383" width="19337" height="6732"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Courier, monospace" font-size="1129px" font-weight="700"><tspan class="TextPosition" x="1504" y="15469"><tspan fill="rgb(0,0,0)" stroke="none">Thanks Verizon.</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Courier, monospace" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1504" y="17057"><tspan fill="rgb(0,0,0)" stroke="none">Thanks for destroying the free and open internet.</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Courier, monospace" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1504" y="18509"><tspan fill="rgb(0,0,0)" stroke="none">Guess we’ll have to </tspan><tspan font-weight="700" fill="rgb(0,0,0)" stroke="none">build our own...</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Courier, monospace" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1504" y="19957"><tspan fill="rgb(0,0,0)" stroke="none">https://peoplesopen.net/byoi</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.TextShape">
+       <g id="id6">
+        <rect class="BoundingBox" stroke="none" fill="none" x="1254" y="20884" width="19337" height="6732"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Courier, monospace" font-size="1129px" font-weight="700"><tspan class="TextPosition" x="1504" y="21970"><tspan fill="rgb(0,0,0)" stroke="none">Thanks Verizon.</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Courier, monospace" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1504" y="23558"><tspan fill="rgb(0,0,0)" stroke="none">Thanks for destroying the free and open internet.</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Courier, monospace" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1504" y="25010"><tspan fill="rgb(0,0,0)" stroke="none">Guess we’ll have to </tspan><tspan font-weight="700" fill="rgb(0,0,0)" stroke="none">build our own...</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Courier, monospace" font-size="635px" font-weight="400"><tspan class="TextPosition" x="1504" y="26458"><tspan fill="rgb(0,0,0)" stroke="none">https://peoplesopen.net/byoi</tspan></tspan></tspan></text>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

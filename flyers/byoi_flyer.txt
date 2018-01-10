@@ -1,24 +1,26 @@
-BYOI - Build Your Own Internet Workshop
-Omni Commons Ballroom
-4799 Shattuck, Oakland, California
-Saturday 27 January 2018 2-5pm
-https://peoplesopen.net/workshop
+Build Your Own Internet
 
-Do you think internet should be a public commons rather than a corporate monopoly?                         
+What if the internet wasn't about connecting to Comcast, AT&T, Google, or Facebook? 
+What if it meant connecting directly with your friends, neighbors, and community...?
 
-Come over to Omni Commons to learn about the history of the internet, how it works, and how to build your own. Meet and mingle with civic hackers and organizers behind peoplesopen.net: an open, community-based, network in the East Bay. 
+The Peoples Open Network enables anyone to share their Internet connection or extend signal from neighboring nodes.
 
-Agenda: 
-2:00pm - Why/what/how of the internet (< 30 minutes)
-2:30pm - Snack, mingle, share and experiment 
-3:00pm - Hands-on workshop with a variety of learning stations 
-5:00pm - end.
-    
-Donations for pizza and internet are enthusiastically accepted ; )
+Come over to the Omni Commons for the Build Your Own Internet (BYOI) workshop!
+Let's discuss how the internet works,  and how you can be part of the People's Open Network.
 
-The Peoples Open Network enables anyone to share their Internet connection or extend signal from neighboring nodes. Learn more at peoplesopen.net. 
+* No technical expertise needed. Technical curiosity very necessary. *
 
-Peoples Open Network operates out of Oakland creative community and hackerspace Sudo Room. Sudo Room is a member collective of the Omni Commons. The Omni Commons is a 100% volunteer-run space for community organizing, collaboration, and creative production located in North Oakland. Learn more at omnicommons.org.
+Omni Commons Ballroom                    
+4799 Shattuck, Oakland, California                   
+Saturday 27 January 2018 2-5pm                    
+https://peoplesopen.net/workshop      
+
+ Agenda                    
+ 2:00pm - Introduction
+ 2:15pm - Panel discussion: Net neutrality is dead — or is it?
+ 3:00pm - Hands-on workshops and demos
+ 5:00pm - End / clean up
+
 
 BYOI Workshop 
 Omni Commons Ballroom

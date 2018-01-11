@@ -26,6 +26,8 @@ If you wish to become involved on a deeper level, there are a handful of educati
    
 ## (Learn) **Deploy an n-node virtual network ([babeld-lab](https://github.com/sudomesh/babeld-lab))** 
 This will help you learn about the underlying protocol that controls the flow of information on the mesh. If you want to help troubleshoot potential conflicts in the WAN as the mesh grows, this is the guide for you!  
+## (Learn) **Dig a tunnel ([tunneldigger-lab](https://github.com/sudomesh/tunneldigger-lab))** 
+Tunnels are dug to connect a nodes in a mesh network with the "big" internet through one or more exit nodes. Also, the tunnels are used to propagate babeld messages to help nodes discover each other. So, in a way, nodes dig tunnels to an exit node to create a VPMS (a virtual private mesh network). The VPMS prevent ip addresses of individual node operators to be exposed on the "big" internet and help individual nodes to mesh with one another even if they are out of range.
 ## (Build) **Create your own physical node ([firmware flash walkthough](https://sudoroom.org/wiki/Mesh/WalkThrough))**  
 This will help you learn about the deployment of our custom firmware and its associated hardware. If you want to get involved in the deployment and maintenance of indivdual nodes, want to contribute to the improvement of the firmware or hardware, or just want to deploy your own node, this is the guide for you! This process also registers your node with peoplesopen.net . 
 ## (Teach) **Help a friend or a neighbor work through this guide and grow the mesh network.** 

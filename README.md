@@ -10,4 +10,9 @@ signage1.png - [BYOI Signage 1](https://raw.githubusercontent.com/sudomesh/propa
 signage2.png - [BYOI Signage 2](https://raw.githubusercontent.com/sudomesh/propaganda/master/signage/signage2.png)   
 by @paidforby licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)   
 
+Fonts:
+- Dosis: by [Edgar Tolentino and Pablo Impallari](http://www.impallari.com), [SIL Open Font License](http://scripts.sil.org/OFL)
+- Anaheim Regular: by [Vernon Adams](https://github.com/vernnobile/anaheimFont), [SIL Open Font License, version 1.1](https://github.com/vernnobile/anaheimFont/blob/master/OFL.txt)
+- Entypo: icons by [David Bruce](http://www.entypo.com), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 All other files by Peoples Open Network licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)   

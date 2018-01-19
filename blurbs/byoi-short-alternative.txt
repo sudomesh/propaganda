@@ -1,0 +1,4 @@
+What if the internet wasn't about connecting to Comcast, AT&T, Google, or Facebook? 
+What if it meant connecting directly with your friends, neighbors, and community...? 
+Let's discuss how the internet works,  how to build your own, and talk about existing community network projects (http://buildyourowninter.net) like the Oakland-based People's Open Network (https://peoplesopen.net).
+Build Your Own Internet Workshop @OmniCommons 27 Jan 2-5pm.  Meet & mingle with others interested in building neighborhood wireless networks. https://peoplesopen.net/workshop

@@ -1,0 +1,56 @@
+﻿riotcon / byoi outline  
+
+1. intro and appreciation - (slide 1: swag Omni Commons/Sudo Room/Sudo Mesh etc)    
+Thanks for joining and for those at omnicommons, sudoroom and sudomesh for providing a space for creative collaborative thinking and doing.
+
+2. state intentions -    
+ I believe that by openly building, operating, and using, communal networks, we empower ourselves to create a more equal (digital) future. I'd like to share some of my experiences and would like to hear how you'd like to get involved.
+
+3. motivation -
+
+Would you trust a single, unelected person to act as a for-profit mediator between 2B humans? 
+
+Would you apply a single youtwitface (i.e. youtube, twitter, facebook conglomerate envisioned by AdBusters and others) filter to our collective memory to optimize ad-clicks? 
+
+How can you create an alternate, more open and communal digital future? 
+
+How can we realize a future with open community internet access for individuals beyond the ISP monopolies that exists today? 
+
+How does a system that was designed to be distributed and resilient against major outages (e.g., nuclear attack) turn into a network that relies on a few central players?
+
+4. realizing a communal digital future -
+get motivated
+do things
+meet at a place
+share what you've done
+repeat
+
+5. do things - (slide 2: composite of omnicommons building, github repo, openwrt, design diagrams, legal docs, project websites) 
+organize events (workshops, meetings)    
+run a non-profit (legal, financial, admin)    
+communicate (websites, swag, wikis, (inter-) national meetings)    
+write open source software (firmware, back-end infrastructure)    
+operate a local internet (keep things up and running)   
+
+6. meet at a place 
+Tuesday 7:30p meetings 
+Sunday node mounts 
+Monthly-ish workshops 
+... mostly at 4799 Shattuck Ave, North Oakland at Sudo Room / Omni Commons.  
+
+
+7. initiatives - (slide 3: how to entities/projects relate, optional slides per project)    
+People's Open Network (https://peoplesopen.net) - open access community mesh network (mostly) in East Bay    
+Sudo Mesh - non-profit, legal entity and development team software-hardware group (too vague?)     - non-profit, legal entity, development team? it's tough to explain sudomesh's existence, a bit convoluted, but important? - grnt
+Disaster Radio (https://disaster.radio) - a disaster-resilient communications network powered by the sun    
+Build Your Own Internet (http://buildyourowninter.net) - a workshop series and a collaborative network-netural information resource -grnt
+Gardenmesh (https://peoplesopen.net/gardenmesh/) - mesh the plants!    
+ [your project here]  
+
+8. Like to learn more? Come to our upcoming workshop 27 Jan 2018 2-5p at Omni Commons, 4799 Shattuck Ave, Oakland.  (slide 5: byoi poster)
+
+9. Closing: repeat intentions
+
+10. Thanks for listening and prompt for discussion: 
+How would you build your own internet? Where would you start? Who would you ask for help? 
+

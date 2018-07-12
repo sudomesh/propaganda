@@ -11,6 +11,8 @@ by @paidforby licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses
 decentralized.jpg - [Decentralized](https://raw.githubusercontent.com/sudomesh/propaganda/master/stickers/decentralized.jpg)
 by Mai Sutton licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+CN_chart.png - [List of Community Networks known](https://raw.githubusercontent.com/sudomesh/propaganda/master/infographics/CN_chart.png) adapted from Navarro et al., [Report on Existing Community Networks and their Organization](https://www.netcommons.eu/sites/default/files/attachment_0.pdf)
+
 Fonts:
 - Dosis: by [Edgar Tolentino and Pablo Impallari](http://www.impallari.com), [SIL Open Font License](http://scripts.sil.org/OFL)
 - Anaheim Regular: by [Vernon Adams](https://github.com/vernnobile/anaheimFont), [SIL Open Font License, version 1.1](https://github.com/vernnobile/anaheimFont/blob/master/OFL.txt)

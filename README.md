@@ -18,4 +18,6 @@ Fonts:
 - Anaheim Regular: by [Vernon Adams](https://github.com/vernnobile/anaheimFont), [SIL Open Font License, version 1.1](https://github.com/vernnobile/anaheimFont/blob/master/OFL.txt)
 - Entypo: icons by [David Bruce](http://www.entypo.com), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
+- Special Elite: by Astigmatic, [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
 All other files by Peoples Open Network licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)   

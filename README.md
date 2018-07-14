@@ -20,4 +20,6 @@ Fonts:
 
 - Special Elite: by Astigmatic, [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
+- Our _Stable_ Networks slides, July 14, 2018, State of Our Networks Conference, Toronto, [perma read-only link](https://cryptpad.fr/slide/#/2/slide/view/Q7uOjmo75Ua4R+L5Scjug9doHfl52XGMdRu2frmTWQk/), [source backup](https://github.com/sudomesh/propaganda/blob/master/presentations/2018-07-14-Our-Networks.md)
+
 All other files by Peoples Open Network licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)   
